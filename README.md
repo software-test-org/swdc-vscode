@@ -14,7 +14,7 @@
 
 <p><a href="https://www.software.com"><img alt="Software.com" src="https://assets.software.com/readme/software-logo-light.png" width="100px"></a></p>
 
-[Code Time](https://www.software.com/code-time) is an open source plugin for automatic programming metrics and time tracking in Visual Studio Code. Join our community of over 150,000 developers who use Code Time to reclaim time for focused, uninterrupted coding. Protect valuable code time and stay in flow.
+[Code Time](https://www.software.com/code-time) is an open source plugin for automatic programming metrics and time tracking in Visual Studio Code. Join our community of over 250,000 developers who use Code Time to reclaim time for focused, uninterrupted coding. Protect valuable code time and stay in flow.
 
 ![Code Time features for VS Code](https://assets.software.com/readme/code-time/vscode/features-2.5.0.png)
 
